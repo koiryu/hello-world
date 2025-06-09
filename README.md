@@ -3,7 +3,7 @@ Just another repository
 
 Hello, world!
 
-I'm a freshman of Japanese ICT vender.
+I'm a freshman of Japanese ICT vendor.
 I studied C and Python when I was in University.
 Now, I'm studying Java, web applications.
 
